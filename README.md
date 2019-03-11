@@ -12,7 +12,7 @@ the code will probably be used from within an already existing project anyway.
 
 ## Example
 
-The file `random_examples.cpp` contains the following:
+The file `sgx_random_device.cpp` contains the following:
 
 * The definition of the `sgx_random_device` class which wraps the `sgx_read_rand` function.
 * An example which draws random integers from a uniform distribution.
